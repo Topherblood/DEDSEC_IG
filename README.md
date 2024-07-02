@@ -23,3 +23,5 @@ git clone https://github.com/Topherblood/DEDSEC_IG
 cd DEDSEC_IG
 
 python DEDSEC_IG.py
+
+![Screenshot_20240702-133536.jpg](https://github.com/Topherblood/DEDSEC_IG/assets/162853344/6cc663f0-90cf-4f60-8a20-801656f94770)
